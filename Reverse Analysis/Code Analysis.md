@@ -121,8 +121,8 @@ Besides enabling "Light Mode" and changing the background color of several DOM e
 
 # Example Process
 
-1. ![image](https://github.com/user-attachments/assets/63ed1ee2-872f-43f4-a649-a590fb51e6e6) searching something on Google
-2. ![image](https://github.com/user-attachments/assets/6e184872-91cd-463e-8465-1bd359307a73) new tab creation
+1. ![image](https://github.com/user-attachments/assets/b9c59b22-94b9-4f7e-b92f-6d7ec25bbfca) searching something on Google
+2. ![image](https://github.com/user-attachments/assets/90924973-1277-4644-9fe9-2d23647a99a8) new tab creation
 3. ![image](https://github.com/user-attachments/assets/0c1432a5-e9df-43c4-8a55-4324d78031a5) Redirection 1
 4. ![image](https://github.com/user-attachments/assets/5fcb1d71-f9e3-4f8d-8c65-fa1a32d72f4c) Redirection 2
 
