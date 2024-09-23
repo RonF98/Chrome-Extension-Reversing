@@ -1,5 +1,4 @@
-![image](https://github.com/user-attachments/assets/36f8999b-b8c8-48d7-a4eb-6761a19fd4b7)
-
+![image](https://github.com/user-attachments/assets/4a35911f-2973-49bc-a5c8-8a1fea340c75)
 # Content Table
 1. [ProDark.crx - Download Chrome Extension](ProDark.crx)
 2. [ProDark.zip - Extracted Source Code](ProDark.zip)
