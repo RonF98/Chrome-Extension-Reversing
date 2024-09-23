@@ -126,12 +126,12 @@ Besides enabling "Light Mode" and changing the background color of several DOM e
 3. ![image](https://github.com/user-attachments/assets/0c1432a5-e9df-43c4-8a55-4324d78031a5) Redirection 1
 4. ![image](https://github.com/user-attachments/assets/5fcb1d71-f9e3-4f8d-8c65-fa1a32d72f4c) Redirection 2
 
-When applying a search query the first domain requested is sttbu.xyz:
+When applying a search query the first domain requested is ```sttbu.xyz```:
 ![image](https://github.com/user-attachments/assets/195256e6-f1a1-46cc-b2c9-67b547e2f80f)
 
 We can observe the payload (in this case “hello”) that I entered in the Google.com search bar being uploaded and transferred to this external domain through a GET parameter. Additionally, several types of cookies are being included, which are probably used for user profiling and session management and affiliate ID’s.
 
-The second domain which im redirected to is www.bettertab.xyz: 
+The second domain which im redirected to is ```www.bettertab.xyz```: 
 Again we see my search query being transferred and some more cookie keys added: 
 ![image](https://github.com/user-attachments/assets/7137a310-8791-4788-bc25-f40a85a8bbdb)
 
