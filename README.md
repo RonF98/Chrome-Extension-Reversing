@@ -1,4 +1,4 @@
-1. [ProDark.crx - Chrome Extension](#prodarkcrx---chrome-extension)
+1. [ProDark.crx - Chrome Extension](ProDark.crx)
 2. [ProDark.zip - Extracted Source Code](#prodarkzip---extracted-source-code)
 3. [Reverse Engineering Analysis](#reverse-engineering-analysis)
    - [Discovery](#discovery)
