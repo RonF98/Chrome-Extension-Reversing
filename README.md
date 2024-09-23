@@ -1,6 +1,6 @@
 1. [ProDark.crx - Download Chrome Extension](ProDark.crx)
 2. [ProDark.zip - Extracted Source Code](ProDark.zip)
-3. [Reverse Analysis](Reverse Analysis)
+3. [Reverse Analysis](https://github.com/RonF98/Chrome-Extension-Reversing/blob/82227f30d55366ee4f39253ca5819bb989eb1cd6/Reverse%20Analysis)
    - [Discovery](#discovery)
    - [Benign Usage](#benign-usage)
    - [Malicious Behavior](#malicious-behavior)
