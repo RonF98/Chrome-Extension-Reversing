@@ -2,9 +2,9 @@
 1. [ProDark.crx - Download Chrome Extension](ProDark.crx)
 2. [ProDark.zip - Extracted Source Code](ProDark.zip)
 3. [Reverse Analysis](https://github.com/RonF98/Chrome-Extension-Reversing/blob/82227f30d55366ee4f39253ca5819bb989eb1cd6/Reverse%20Analysis)
-   - [Benign Usage](#benign-usage)
-   - [Malicious Behavior](#malicious-behavior)
-   - [Monetization Methods](#monetization-methods)
+   - [CRX content](https://github.com/RonF98/Chrome-Extension-Reversing/blob/c5f0936837ad3eb84a7dd87137dc12c22a542e23/Reverse%20Engineering/CRX%20Content.md)
+   - [Code Analysis](https://github.com/RonF98/Chrome-Extension-Reversing/blob/c5f0936837ad3eb84a7dd87137dc12c22a542e23/Reverse%20Engineering/Code%20Analysis.md)
+   - [Purpose and Monetization](https://github.com/RonF98/Chrome-Extension-Reversing/blob/c5f0936837ad3eb84a7dd87137dc12c22a542e23/Reverse%20Engineering/Purpose%20and%20Monetization.md)
 
 # Description
 In this reverse engineering analysis, we'll investigate the ProDark Chrome extension, which claims to provide a simple dark mode for websites. By dissecting its CRX file and analyzing it's key components, we'll uncover the obfuscated code designed to hide its **true malicious capabilities**, triggered only under specific conditions. The extension can redirect user search queries through external domains, manipulates Tabs and alters DOM elements on the webpage. This analysis sheds light on the sophisticated techniques used by malicious Chrome extensions to bypass detection while monetizing unsuspecting users browsing activity.
