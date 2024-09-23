@@ -17,5 +17,3 @@ When extracting the CRX file, we see it contains the following files:
 > **logo.png** - contains the extension’s icon logo.
 
 From this general overview, we can see that the extension requests the storage and tabs permissions, and contains a substantial background.js file with nearly 2,000 lines of code, which seem unusual for an extension that only claims to change colors.
-
-# 
